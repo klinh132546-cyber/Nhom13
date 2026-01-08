@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="QuanLyBanMoHinh.BLL/QuanLyBanMoHinh.BLL.csproj" Id="ec74d704-f084-4504-99c3-f6ab8efaa23c" />
+  <Project Path="QuanLyBanMoHinh.DAL/QuanLyBanMoHinh.DAL.csproj" Id="e9aecb4b-375d-4797-a0ad-85b15aa35fe2" />
+  <Project Path="QuanLyBanMoHinh.GUI/QuanLyBanMoHinh.GUI.csproj" Id="7d2cc920-8cc2-4c15-a97b-0800a289c75b" />
+</Solution>
